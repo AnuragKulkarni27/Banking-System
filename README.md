@@ -1,1 +1,1 @@
-A Banking System program in c++ with various options
+A Banking System program in C++ with various options
